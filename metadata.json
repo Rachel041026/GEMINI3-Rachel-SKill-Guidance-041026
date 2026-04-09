@@ -1,0 +1,5 @@
+{
+  "name": "ORICKS v4.0 — FDA 510(k) AI Review System",
+  "description": "A pioneering AI-driven system for FDA 510(k) medical device submission and review, featuring multi-agent workflows, web grounding, and dynamic painter-style theming.",
+  "requestFramePermissions": []
+}
